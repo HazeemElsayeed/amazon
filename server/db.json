@@ -1,0 +1,94 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Laptops"
+    },
+    {
+      "id": 2,
+      "name": "Smartphones"
+    },
+    {
+      "id": 3,
+      "name": "Tablets"
+    },
+    {
+      "id": 4,
+      "name": "Accessories"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "MacBook Pro",
+      "category": "Laptops",
+      "price": 1999,
+      "image": "https://f.nooncdn.com/p/pnsku/N70020096V/45/_/1710144286/7567f414-8ae2-440d-8607-54290ad9bb3d.jpg?format=avif&width=240",
+      "deleted": false,
+      "description": "The MacBook Pro is a high-performance laptop equipped with Apple's M1 chip, offering lightning-fast processing and stunning visuals."
+    },
+    {
+      "id": 2,
+      "name": "iPhone 13",
+      "category": "Smartphones",
+      "price": 899,
+      "image": "https://f.nooncdn.com/p/v1686205678/N50838836A_1.jpg?format=avif&width=240",
+      "deleted": false,
+      "description": "The iPhone 13 features a sleek design, advanced camera system, and impressive battery life, making it a top choice for smartphone users."
+    },
+    {
+      "id": 3,
+      "name": "iPhone 15",
+      "category": "Smartphones",
+      "price": 999,
+      "image": "https://f.nooncdn.com/p/pnsku/N53432561A/45/_/1694762130/d781c274-56ba-4c4c-98a8-c46fc7a58fee.jpg?format=avif&width=240",
+      "deleted": false,
+      "description": "With its powerful A16 chip, the iPhone 15 offers enhanced performance and stunning photography capabilities in a compact design."
+    },
+    {
+      "id": 4,
+      "name": "Samsung S23 Ultra",
+      "category": "Smartphones",
+      "price": 720,
+      "image": "https://f.nooncdn.com/p/v1687430487/N53379147A_1.jpg?format=avif&width=240",
+      "deleted": false,
+      "description": "The Samsung S23 Ultra combines cutting-edge technology with an impressive camera system, perfect for photography enthusiasts."
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy Tab A9",
+      "category": "Tablets",
+      "price": 649,
+      "image": "https://f.nooncdn.com/p/pnsku/N70015007V/45/_/1697638269/d535036a-d799-4414-a648-38239522c499.jpg?format=avif&width=240",
+      "deleted": false,
+      "description": "The Galaxy Tab A9 is a versatile tablet that provides an immersive viewing experience, ideal for entertainment and productivity."
+    },
+    {
+      "id": 6,
+      "name": "AirPods Pro",
+      "category": "Accessories",
+      "price": 249,
+      "image": "https://f.nooncdn.com/p/pnsku/N53437240A/45/_/1694760182/fef39d70-943d-4962-a62b-f09196c604ab.jpg?format=avif&width=240",
+      "deleted": false,
+      "description": "AirPods Pro offer active noise cancellation and high-quality sound, ensuring an exceptional audio experience."
+    },
+    {
+      "id": 7,
+      "name": "Joyroom Power Bank 30000 mAh",
+      "category": "Accessories",
+      "price": 50,
+      "image": "https://f.nooncdn.com/p/v1687334451/N53415951A_1.jpg?format=avif&width=240",
+      "deleted": false,
+      "description": "The Joyroom Power Bank provides a massive 30000 mAh capacity, ensuring your devices stay charged on the go."
+    },
+    {
+      "id": 8,
+      "name": "Anker 312 Charger 25 W",
+      "category": "Accessories",
+      "price": 20,
+      "image": "https://f.nooncdn.com/p/pnsku/N70004190V/45/_/1697034757/42502972-6b2f-4d3e-a5ce-fff3ba222f4c.jpg?format=avif&width=240",
+      "deleted": false,
+      "description": "The Anker 312 Charger delivers 25W of power, enabling fast and efficient charging for your devices."
+    }
+  ]
+}
